@@ -4,7 +4,7 @@
 	<Project>
 		<Option title="mysterious" />
 		<Option pch_mode="2" />
-		<Option compiler="gcc" />
+		<Option compiler="cygwin" />
 		<Build>
 			<Target title="Debug">
 				<Option output="bin/Debug/mysterious" prefix_auto="1" extension_auto="1" />
@@ -32,7 +32,18 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="dico.txt" />
+		<Unit filename="getMysterious.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="getMysterious.hpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="main.cpp" />
+		<Unit filename="swapping.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="swapping.hpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

@@ -1,4 +1,25 @@
 # depslib dependency file v1.0
-1446667744 source:d:\work\git\mysterious\main.cpp
+1465286159 source:d:\work\git\mysterious\main.cpp
 	<iostream>
+	<fstream>
+	<string>
+	"swapping.hpp"
+	"getMysterious.hpp"
+
+1465273218 d:\work\git\mysterious\swapping.hpp
+
+1465285249 d:\work\git\mysterious\getmysterious.hpp
+
+1465286213 source:d:\work\git\mysterious\getmysterious.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"getMysterious.hpp"
+
+1465285583 source:d:\work\git\mysterious\swapping.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	"swapping.hpp"
 
