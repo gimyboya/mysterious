@@ -11,7 +11,7 @@ std::string swapping (std::string word){
     std::string temp("");
 
     while(word.size() != 0){
-          int counter = rand() % word.size();
+          long int counter = rand() % word.size();
           temp += word[counter];
           word.erase(counter, 1);
         }

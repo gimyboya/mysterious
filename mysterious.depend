@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1465286159 source:d:\work\git\mysterious\main.cpp
+1465344168 source:d:\work\git\mysterious\main.cpp
 	<iostream>
 	<fstream>
 	<string>
@@ -10,16 +10,35 @@
 
 1465285249 d:\work\git\mysterious\getmysterious.hpp
 
-1465286213 source:d:\work\git\mysterious\getmysterious.cpp
+1465344102 source:d:\work\git\mysterious\getmysterious.cpp
 	<iostream>
 	<fstream>
 	<string>
+	<ctime>
+	<cstdlib>
 	"getMysterious.hpp"
 
-1465285583 source:d:\work\git\mysterious\swapping.cpp
+1465338757 source:d:\work\git\mysterious\swapping.cpp
 	<iostream>
 	<string>
 	<ctime>
 	<cstdlib>
 	"swapping.hpp"
+
+1449916256 source:d:\work\git\mysterious\buffervoider.cpp
+	<iostream>
+	<fstream>
+	<limits>
+	"buffervoider.hpp"
+
+1449917895 d:\work\git\mysterious\buffervoider.hpp
+
+1465342628 source:d:\work\git\mysterious\checktyping.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"buffervoider.hpp"
+	"checktyping.hpp"
+
+1465340000 d:\work\git\mysterious\checktyping.hpp
 
